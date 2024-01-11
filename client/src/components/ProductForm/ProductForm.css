@@ -1,0 +1,8 @@
+.ProductForm {
+    width: 25%;
+    margin: 40px auto;
+}
+.ProductForm input, .ProductForm textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
